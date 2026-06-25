@@ -66,7 +66,7 @@ function reiniciarJogo() {
 }
 
 
-console.log(eu estive aqui Diogo de casa <3)
+console.log('eu estive aqui Diogo de casa <3')
 
 
 
